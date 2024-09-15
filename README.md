@@ -35,7 +35,7 @@ Antes de executar o projeto, você precisa configurar o ambiente:
 
    ```properties
    api_key=YOUR_API_KEY
-   Substitua YOUR_API_KEY pela sua chave da WeatherAPI.
+   Substitua YOUR_API_KEY pela sua chave da [WeatherAPI](https://www.weatherapi.com/)
 
 4. **Compile e Execute**
 
